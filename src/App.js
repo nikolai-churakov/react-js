@@ -11,10 +11,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            <div style={divStyle}>
-                <h1>add to git</h1>
-            </div>
-
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -26,6 +22,9 @@ function App() {
           Learn React
         </a>
       </header>
+        <div style={divStyle}>
+            <h1 style={{fontSize: '30px'}}>add to git</h1>
+        </div>
     </div>
   );
 }
