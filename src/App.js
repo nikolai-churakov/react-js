@@ -1,13 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
 
+const divStyle =  {
+  'color': '#d32f2f'
+}
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            <h1>add to git</h1>
+            <div style={divStyle}>
+                <h1>add to git</h1>
+            </div>
+
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
