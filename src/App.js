@@ -12,6 +12,7 @@ function App() {
         <div style={divStyle}>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>add to git</h1>
             <Car />
+            <Car />
         </div>
     </div>
   );
