@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component">
-      <change beforePath="$PROJECT_DIR$/src/Car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/Car.js" afterDir="false" />
-    </list>
+    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -70,7 +75,7 @@
       <workItem from="1654633376502" duration="211000" />
       <workItem from="1654633597827" duration="21000" />
       <workItem from="1654633631695" duration="1070000" />
-      <workItem from="1654715569797" duration="2639000" />
+      <workItem from="1654715569797" duration="2948000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1654630051367</created>
@@ -156,7 +161,35 @@
       <option name="project" value="LOCAL" />
       <updated>1654718794222</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add car.js component">
+      <created>1654718954080</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654718954080</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add car.js component">
+      <created>1654719084664</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719084664</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add car.js component">
+      <created>1654719147652</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719147652</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add car.js component">
+      <created>1654719171672</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719171672</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
