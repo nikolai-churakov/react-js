@@ -19,11 +19,10 @@ import React from "react";
 
 // export default car
 
-export default () => (
+export default (props) => (
     <div>
-       <h3>Car name: {'CarName'}</h3>
-        <p>Year: {'Year'}</p>
-        <p>Lot number: <strong style={{color:'red'}}>{Math.round(Math.random()*100)}</strong>
-        </p>
+       <h3>Car name: {props.name}</h3>
+        <p>Year: {props.year}</p>
+        <p>Lot number: <strong style={{color:'red'}}>{Math.round(Math.random()*100)}</strong></p>
     </div>
 )
