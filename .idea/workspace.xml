@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add style jsx">
+      <change afterPath="$PROJECT_DIR$/src/Car/Car.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -9,6 +10,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -64,6 +72,7 @@
       <workItem from="1654633376502" duration="211000" />
       <workItem from="1654633597827" duration="21000" />
       <workItem from="1654633631695" duration="1070000" />
+      <workItem from="1654715569797" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="++">
       <created>1654630051367</created>
