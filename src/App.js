@@ -11,8 +11,8 @@ function App() {
     <div className="App">
         <div style={divStyle}>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>add to git</h1>
-            <Car />
-            <Car />
+            <Car name={'Ford'} year={2018}/>
+            <Car name={'Audi'} year={2016}/>
         </div>
     </div>
   );

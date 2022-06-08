@@ -21,8 +21,9 @@ import React from "react";
 
 export default () => (
     <div>
-       <p>This is car component</p>
-        <p>Number: <strong style={{color:'red'}}>{Math.round(Math.random()*100)}</strong>
+       <h3>Car name: {'CarName'}</h3>
+        <p>Year: {'Year'}</p>
+        <p>Lot number: <strong style={{color:'red'}}>{Math.round(Math.random()*100)}</strong>
         </p>
     </div>
 )
