@@ -2,7 +2,8 @@ import './App.css';
 import Car from "./Car/Car";
 
 const divStyle =  {
-  'color': '#0088ff'
+  'color': '#0088ff',
+  'fontSize': '62px'
 }
 
 function App() {
