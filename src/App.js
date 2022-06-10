@@ -1,6 +1,13 @@
 import './App.css';
 import Car from "./Car/Car";
 
+state = {
+   cars: [
+       {name: 'Ford', yaer: 2018},
+       {name: 'Audi', yaer: 2016},
+       {name: 'Mazda', yaer: 2010}
+}
+
 const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px'
