@@ -1,7 +1,7 @@
 import './App.css';
 import Car from "./Car/Car";
 
-this.state = {
+state = {
    cars: [
        {name: 'Ford', year: 2018},
        {name: 'Audi', year: 2016},

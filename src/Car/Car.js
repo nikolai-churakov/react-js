@@ -24,6 +24,5 @@ export default props => (
        <h3>Car name: {props.name}</h3>
         <p>Year: {props.year}</p>
         <p>Lot number: <strong style={{color:'red'}}>{Math.round(Math.random()*100)}</strong></p>
-        {props.children}
     </div>
 )
