@@ -1,11 +1,11 @@
 import './App.css';
 import Car from "./Car/Car";
 
-state = {
+this.state = {
    cars: [
-       {name: 'Ford', yaer: 2018},
-       {name: 'Audi', yaer: 2016},
-       {name: 'Mazda', yaer: 2010}
+       {name: 'Ford', year: 2018},
+       {name: 'Audi', year: 2016},
+       {name: 'Mazda', year: 2010}
 ]
 }
 
@@ -21,9 +21,9 @@ function App() {
         <div style={divStyle}>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>add to git</h1>
 
-            <Car name={cars[0].name} year={cars[0].yaer}/>
-            <Car name={cars[0].name} year={cars[0].yaer}/>
-            <Car name={cars[0].name} year={cars[0].yaer}/>
+            <Car name={cars[0].name} year={cars[0].year}/>
+            <Car name={cars[1].name} year={cars[1].year}/>
+            <Car name={cars[2].name} year={cars[2].year}/>
         </div>
     </div>
   );
