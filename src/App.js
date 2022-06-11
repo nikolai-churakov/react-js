@@ -2,8 +2,8 @@ import './App.css';
 import Car from "./Car/Car";
 import React, { useState } from 'react';
 
-
-// (не работает)
+ //
+ // (не работает)
 // state = {
 //    cars: [
 //        {name: 'Ford', year: 2018},
