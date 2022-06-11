@@ -2,6 +2,8 @@ import './App.css';
 import Car from "./Car/Car";
 import React, { useState } from 'react';
 
+
+// (не работает)
 // state = {
 //    cars: [
 //        {name: 'Ford', year: 2018},
@@ -17,18 +19,7 @@ const divStyle =  {
 
 function App() {
 
-    const state = {
-        cars: [
-            {name: 'Ford', year: 2018},
-            {name: 'Audi', year: 2016},
-            {name: 'Mazda', year: 2010}
-        ]}
-
-    const [car, xui] = useState(0);
-
-    if (useState === 0) {
-        console.log(111)
-    }
+    const [count, setCount] = useState(0);
 
     return (
     <div className="App">
@@ -40,8 +31,8 @@ function App() {
             {/*<Car name={cars[2].name} year={cars[2].year}/>*/}
         </div>
         <div>
-            <p>Вы кликнули {car} раз(а)</p>
-             <button onClick={() => console.log(xui)}>
+            <p>Вы кликнули {count +1} раз(а)</p>
+             <button onClick={() => setCount(count + 1) }>
               Нажми на меня
               </button>
            </div>
