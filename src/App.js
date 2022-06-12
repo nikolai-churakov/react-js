@@ -4,13 +4,13 @@ import React, { useState } from 'react';
 
  //
  // (не работает)
-// state = {
-//    cars: [
-//        {name: 'Ford', year: 2018},
-//        {name: 'Audi', year: 2016},
-//        {name: 'Mazda', year: 2010}
-// ]
-// }
+this.state = {
+   cars: [
+       {name: 'Ford', year: 2018},
+       {name: 'Audi', year: 2016},
+       {name: 'Mazda', year: 2010}
+]
+}
 
 const divStyle =  {
   'color': '#0088ff',
