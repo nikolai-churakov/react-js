@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2AGG3LAaitbYccvagb7iAnQFGAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nickc/my-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my-app/public/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="" />
+      <created>1654628307190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654628307190</updated>
+      <workItem from="1654628308334" duration="61000" />
+      <workItem from="1654628382599" duration="32000" />
+      <workItem from="1654628443653" duration="41000" />
+      <workItem from="1654628931259" duration="3286000" />
+      <workItem from="1654633376502" duration="211000" />
+      <workItem from="1654633597827" duration="21000" />
+      <workItem from="1654633631695" duration="1070000" />
+      <workItem from="1654715569797" duration="3273000" />
+      <workItem from="1654799214669" duration="150000" />
+      <workItem from="1654889547086" duration="4267000" />
+      <workItem from="1654916443095" duration="912000" />
+    </task>
+    <task id="LOCAL-00001" summary="++">
+      <created>1654630051367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654630051367</updated>
+    </task>
+    <task id="LOCAL-00002" summary="++">
+      <created>1654633488651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654633488651</updated>
+    </task>
+    <task id="LOCAL-00003" summary="++">
+      <created>1654633687004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654633687004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add style jsx">
+      <created>1654634148165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654634148165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add car.js component">
+      <created>1654715831734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654715831734</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add car.js component">
+      <created>1654715927403</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654715927403</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add car.js component">
+      <created>1654716189351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654716189351</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add car.js component">
+      <created>1654716625920</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654716625920</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add car.js component">
+      <created>1654716899877</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654716899877</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add car.js component">
+      <created>1654717184622</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654717184622</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add car.js component">
+      <created>1654717382015</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654717382015</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add car.js component">
+      <created>1654718794222</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654718794222</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add car.js component">
+      <created>1654718954080</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654718954080</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add car.js component">
+      <created>1654719084664</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719084664</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add car.js component">
+      <created>1654719147652</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719147652</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add car.js component">
+      <created>1654719171672</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719171672</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add car.js component">
+      <created>1654719483254</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719483254</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add car.js component">
+      <created>1654719496814</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654719496814</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add car.js component">
+      <created>1654799259736</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654799259736</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add car.js component">
+      <created>1654799359640</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654799359640</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add car.js component">
+      <created>1654889704161</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654889704161</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add car.js component">
+      <created>1654890019710</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1654890019710</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add car.js component">
+      <created>1654890113637</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1654890113637</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add car.js component">
+      <created>1654890254336</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1654890254336</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add car.js component">
+      <created>1654890387615</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1654890387615</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add car.js component">
+      <created>1654890692391</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1654890692391</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add car.js component">
+      <created>1654891133787</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1654891133787</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add car.js component">
+      <created>1654894803841</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1654894803841</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add car.js component">
+      <created>1654917146093</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1654917146093</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add car.js component">
+      <created>1654917167687</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1654917167687</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="++" />
+    <MESSAGE value="add style jsx" />
+    <MESSAGE value="add car.js component" />
+    <option name="LAST_COMMIT_MESSAGE" value="add car.js component" />
+  </component>
+</project>
