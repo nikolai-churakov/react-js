@@ -2,7 +2,7 @@ import './App.css';
 import Car from "./Car/Car";
 import React, { useState } from 'react';
 
- //
+
  // (не работает)
 this.state = {
    cars: [
