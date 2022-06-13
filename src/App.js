@@ -10,7 +10,7 @@ const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px'
 }
-
+ // frozen script
 function App() {
 
     // this.state = {
