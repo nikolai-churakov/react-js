@@ -18,10 +18,9 @@ class App extends Component {
         pageTitle: 'React components'
     }
 
-changeTitleHandler = () => {
-
-        let oldTitle = this.state.pageTitle
-        const newTitle = oldTitle + ' (changed) '
+changeTitleHandler = (newTitle) => {
+        // let oldTitle = this.state.pageTitle
+        // const newTitle = oldTitle + ' (changed) '
     this.setState({
         pageTitle: newTitle
     })
