@@ -21,8 +21,7 @@ class App extends Component {
 
 render() {
 
-
-    // const cars = this.state.cars
+    const cars = this.state.cars
     // const [count, setCount] = useState(0);
 
     return (
@@ -30,9 +29,9 @@ render() {
         <div style={divStyle}>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>add to git</h1>
 
-            <Car name={'cars[0].name'} year={'cars[0].year'}/>
-            {/*<Car name={cars[1].name} year={cars[1].year}/>*/}
-            {/*<Car name={cars[2].name} year={cars[2].year}/>*/}
+            <Car name={cars[0].name} year={cars[0].year}/>
+            <Car name={cars[1].name} year={cars[1].year}/>
+            <Car name={cars[2].name} year={cars[2].year}/>
         </div>
         {/*<div>*/}
         {/*    <p>Вы кликнули {count +1} раз(а)</p>*/}
