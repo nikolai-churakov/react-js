@@ -20,6 +20,7 @@ class App extends Component {
 
 changeTitleHandler = () => {
         console.log('Clicked')
+    this.state.pageTitle = 'Changed!'
 }
 
 render() {
