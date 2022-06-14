@@ -41,7 +41,7 @@ render() {
             <Car
                 name={cars[0].name}
                 year={cars[0].year}/>
-                onChangeTitle={this.changeTitleHandler}
+                {/*onChangeTitle={this.changeTitleHandler}*/}
             <Car
                 name={cars[1].name}
                 year={cars[1].year}/>
