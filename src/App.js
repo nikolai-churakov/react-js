@@ -39,6 +39,22 @@ changeTitleHandler = (newTitle) => {
 
 render() {
     // const cars = this.state.cars
+
+    let cars = null
+
+    if (this.state.showCars) {
+        cars = this.state.cars.map((car, index) => {
+            return (
+                <Car
+                    key={index}
+                    name={car.name}
+                    year={car.year}
+                    onChangeTitle={() => this.changeTitleHandler(car.name)}
+                />
+            )
+        })
+    }
+
     return (
     <div className="App">
         <div style={divStyle}>
@@ -49,19 +65,7 @@ render() {
                 onClick={this.toggleCarsHandler}
                 >Toggle cars</button>
 
-            {   this.state.showCars
-                ? this.state.cars.map((car, index) => {
-                return (
-                    <Car
-                        key={index}
-                        name={car.name}
-                        year={car.year}
-                        onChangeTitle={() => this.changeTitleHandler(car.name)}
-                    />
-                )
-                })
-                : null
-            }
+            { cars }
 
             {/*<Car*/}
             {/*    name={cars[0].name}*/}
