@@ -3,25 +3,25 @@ import Car from "./Car/Car";
 // import React, { useState } from 'react';
 import React, { Component } from 'react';
 
- // (не работает)
-
-
 const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px'
 }
 
 class App extends Component {
- // frozen script
+
+    state = {
+        cars: [
+            {name: 'Ford', year: 2018},
+            {name: 'Audi', year: 2016},
+            {name: 'Mazda', year: 2010}
+        ]
+    }
+
+
 render() {
 
-    // state = {
-    //     cars: [
-    //         {name: 'Ford', year: 2018},
-    //         {name: 'Audi', year: 2016},
-    //         {name: 'Mazda', year: 2010}
-    //     ]
-    // }
+
     // const cars = this.state.cars
     // const [count, setCount] = useState(0);
 
