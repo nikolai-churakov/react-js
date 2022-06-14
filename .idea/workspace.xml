@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,21 +90,7 @@
       <workItem from="1655060397029" duration="718000" />
       <workItem from="1655143423678" duration="618000" />
       <workItem from="1655199318910" duration="3262000" />
-      <workItem from="1655203715171" duration="971000" />
-    </task>
-    <task id="LOCAL-00008" summary="add car.js component">
-      <created>1654716625920</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1654716625920</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add car.js component">
-      <created>1654716899877</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1654716899877</updated>
+      <workItem from="1655203715171" duration="1311000" />
     </task>
     <task id="LOCAL-00010" summary="add car.js component">
       <created>1654717184622</created>
@@ -434,7 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655204588542</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="add car.js component">
+      <created>1655204714238</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1655204714238</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add car.js component">
+      <created>1655204814333</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1655204814333</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
