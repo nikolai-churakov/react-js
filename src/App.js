@@ -10,16 +10,18 @@ const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px'
 }
- // frozen script
-function App() {
 
-    this.state = {
-        cars: [
-            {name: 'Ford', year: 2018},
-            {name: 'Audi', year: 2016},
-            {name: 'Mazda', year: 2010}
-        ]
-    }
+class App extends Component {
+ // frozen script
+render() {
+
+    // state = {
+    //     cars: [
+    //         {name: 'Ford', year: 2018},
+    //         {name: 'Audi', year: 2016},
+    //         {name: 'Mazda', year: 2010}
+    //     ]
+    // }
     // const cars = this.state.cars
     // const [count, setCount] = useState(0);
 
@@ -41,5 +43,5 @@ function App() {
     </div>
   );
 }
-
+}
 export default App;
