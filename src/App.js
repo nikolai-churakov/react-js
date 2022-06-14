@@ -34,8 +34,8 @@ render() {
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>{this.state.pageTitle}</h1>
 
             <button
-                onClick={this.changeTitleHandler.bind(this, 'Changed!')}>
-                Change title</button>
+                onClick={this.changeTitleHandler.bind(this, 'Changed!')}
+                >Change title</button>
 
             <Car
                 name={cars[0].name}
