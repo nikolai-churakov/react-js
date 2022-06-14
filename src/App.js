@@ -40,7 +40,7 @@ render() {
             <Car
                 name={cars[0].name}
                 year={cars[0].year}
-                onChangeTitle={this.changeTitleHandler.bind(this.cars[0])}
+                onChangeTitle={this.changeTitleHandler.bind(this, cars[0].name)}
             />
 
             <Car
