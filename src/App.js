@@ -1,6 +1,6 @@
 import './App.css';
 import Car from "./Car/Car";
-import React, { Component, useState } from 'react';
+import React, { Component } from 'react';
 
 const divStyle =  {
   'color': '#0088ff',
@@ -18,6 +18,9 @@ class App extends Component {
         pageTitle: 'React components'
     }
 
+changeTitleHandler = () => {
+        console.log('Clicked')
+}
 
 render() {
     const cars = this.state.cars
@@ -27,7 +30,7 @@ render() {
         <div style={divStyle}>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>{this.state.pageTitle}</h1>
 
-            <button onClick={}>Change title</button>
+            <button onClick={this.changeTitleHandler}>Change title</button>
 
             <Car name={cars[0].name} year={cars[0].year}/>
             <Car name={cars[1].name} year={cars[1].year}/>
