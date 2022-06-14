@@ -32,7 +32,7 @@ handleInput = (event) => {
 
 render() {
 
-    const cars = this.state.cars
+    // const cars = this.state.cars
 
     return (
     <div className="App">
@@ -43,6 +43,17 @@ render() {
             <button
                 onClick={this.changeTitleHandler.bind(this, 'Changed!')}
                 >Change title</button>
+
+            {this.state.cars.map((car, index) => {
+                return (
+                    <Car
+                        key={index}
+                        name={car.name}
+                        year={car.year}
+                        onChangeTitle={() => this.changeTitleHandler(car.name)}
+                    />
+                )
+                }) }
 
             {/*<Car*/}
             {/*    name={cars[0].name}*/}
