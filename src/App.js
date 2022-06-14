@@ -1,8 +1,7 @@
 import './App.css';
 import Car from "./Car/Car";
-// import React, { useState } from 'react';
 import React, { Component } from 'react';
-
+// import React, { useState } from 'react';
 const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px'
@@ -22,7 +21,10 @@ class App extends Component {
 render() {
 
     const cars = this.state.cars
+
+    // Hooks
     // const [count, setCount] = useState(0);
+    //
 
     return (
     <div className="App">
