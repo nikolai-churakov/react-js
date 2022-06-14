@@ -1,7 +1,7 @@
 import './App.css';
 import Car from "./Car/Car";
-import React, { useState } from 'react';
-
+// import React, { useState } from 'react';
+import React, { Component } from 'react';
 
  // (не работает)
 
@@ -13,15 +13,15 @@ const divStyle =  {
  // frozen script
 function App() {
 
-    // this.state = {
-    //     cars: [
-    //         {name: 'Ford', year: 2018},
-    //         {name: 'Audi', year: 2016},
-    //         {name: 'Mazda', year: 2010}
-    //     ]
-    // }
+    this.state = {
+        cars: [
+            {name: 'Ford', year: 2018},
+            {name: 'Audi', year: 2016},
+            {name: 'Mazda', year: 2010}
+        ]
+    }
     // const cars = this.state.cars
-    const [count, setCount] = useState(0);
+    // const [count, setCount] = useState(0);
 
     return (
     <div className="App">
@@ -32,12 +32,12 @@ function App() {
             {/*<Car name={cars[1].name} year={cars[1].year}/>*/}
             {/*<Car name={cars[2].name} year={cars[2].year}/>*/}
         </div>
-        <div>
-            <p>Вы кликнули {count +1} раз(а)</p>
-             <button onClick={() => setCount(count + 1) }>
-              Нажми на меня
-              </button>
-           </div>
+        {/*<div>*/}
+        {/*    <p>Вы кликнули {count +1} раз(а)</p>*/}
+        {/*     <button onClick={() => setCount(count + 1) }>*/}
+        {/*      Нажми на меня*/}
+        {/*      </button>*/}
+        {/*   </div>*/}
     </div>
   );
 }
