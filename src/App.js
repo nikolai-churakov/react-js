@@ -36,13 +36,13 @@ render() {
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>{this.state.pageTitle}</h1>
 
             <button
-                onClick={this.changeTitleHandler}>
+                onClick={this.changeTitleHandler.bind(this, 'Changed!')}>
                 Change title</button>
 
             <Car
                 name={cars[0].name}
                 year={cars[0].year}
-                onChangeTitle={this.changeTitleHandler}
+                onChangeTitle={this.changeTitleHandler.bind(this.cars[0])}
             />
 
             <Car

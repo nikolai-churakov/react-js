@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component">
-      <change beforePath="$PROJECT_DIR$/src/Car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/Car.js" afterDir="false" />
-    </list>
+    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,28 +86,7 @@
       <workItem from="1655060397029" duration="718000" />
       <workItem from="1655143423678" duration="618000" />
       <workItem from="1655199318910" duration="3262000" />
-      <workItem from="1655203715171" duration="330000" />
-    </task>
-    <task id="LOCAL-00003" summary="++">
-      <created>1654633687004</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1654633687004</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add style jsx">
-      <created>1654634148165</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1654634148165</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add car.js component">
-      <created>1654715831734</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1654715831734</updated>
+      <workItem from="1655203715171" duration="630000" />
     </task>
     <task id="LOCAL-00006" summary="add car.js component">
       <created>1654715927403</created>
@@ -433,7 +410,28 @@
       <option name="project" value="LOCAL" />
       <updated>1655203879143</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="add car.js component">
+      <created>1655204117731</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1655204117731</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add car.js component">
+      <created>1655204237855</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1655204237855</updated>
+    </task>
+    <task id="LOCAL-00054" summary="add car.js component">
+      <created>1655204310960</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1655204310960</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
