@@ -56,6 +56,7 @@ render() {
     }
 
     return (
+
     <div className="App">
         <div style={divStyle}>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>{this.state.pageTitle}</h1>
