@@ -1,7 +1,7 @@
 import './App.css';
 import Car from "./Car/Car";
 import React, { Component } from 'react';
-
+import Counter from "./Counter/Counter";
 const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px'
@@ -59,6 +59,7 @@ render() {
 
     <div className="App">
         <div style={divStyle}>
+            <Counter />
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>{this.state.pageTitle}</h1>
 
             {/*<input type="text" onChange={this.handleInput}/>*/}
