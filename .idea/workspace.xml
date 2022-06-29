@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component" />
+    <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component">
+      <change beforePath="$PROJECT_DIR$/src/Car/Car.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/Car.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/Car.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,14 +95,7 @@
       <workItem from="1655203715171" duration="3986000" />
       <workItem from="1655964243892" duration="460000" />
       <workItem from="1656349180401" duration="3301000" />
-      <workItem from="1656495502817" duration="3153000" />
-    </task>
-    <task id="LOCAL-00027" summary="add car.js component">
-      <created>1654891133787</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1654891133787</updated>
+      <workItem from="1656495502817" duration="3408000" />
     </task>
     <task id="LOCAL-00028" summary="add car.js component">
       <created>1654894803841</created>
@@ -437,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656498668240</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="add car.js component">
+      <created>1656498744406</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1656498744406</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
