@@ -60,10 +60,12 @@ render() {
     <div className="App">
         <div style={divStyle}>
             <Counter />
+            <hr/>
             <h1 style={{fontSize: '30px', textAlign: 'center'}}>{this.state.pageTitle}</h1>
 
             {/*<input type="text" onChange={this.handleInput}/>*/}
             <button
+                style={{marginTop: 20}}
                 onClick={this.toggleCarsHandler}
                 >Toggle cars</button>
 
