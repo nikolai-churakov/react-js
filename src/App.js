@@ -4,7 +4,9 @@ import React, { Component } from 'react';
 import Counter from "./Counter/Counter";
 const divStyle =  {
   'color': '#0088ff',
-  'fontSize': '18px'
+  'fontSize': '18px',
+  'textAlign': 'center'
+
 }
 
 class App extends Component {
@@ -69,9 +71,13 @@ render() {
                 onClick={this.toggleCarsHandler}
                 >Toggle cars</button>
 
-
-            { cars }
-
+            <div style={{
+                width: 400,
+                margin: 'auto',
+                paddingTop: '20px'
+            }}>
+                { cars }
+            </div>
             {/*<Car*/}
             {/*    name={cars[0].name}*/}
             {/*    year={cars[0].year}*/}
