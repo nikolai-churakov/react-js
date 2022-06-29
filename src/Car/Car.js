@@ -1,28 +1,28 @@
-import React from "react";
+import React from 'react'
+import './Car.css'
 
-// function car() {
-//     return (
-//     <h2>Hello! (car component)</h2>
-// )}
+export default props => {
+    const inputClasses = ['input']
 
-// const car = () => {
-//     return (
-//         <div>Hello!</div>
-//     )
-// }
+    if (props.name !== '') {
+        inputClasses.push('green')
+    } else {
+        inputClasses.push('red')
+    }
 
-// const car = () => (
-//     <div>
-//         <strong>Hello!</strong>
-//     </div>
-// )
+    return (
+        <div className="Car">
+            <h3>Car name: {props.name}</h3>
+            <p>Year: {props.year}</p>
+            <input
+                type="text"
+                onChange={props.onChangeName}
+                value={props.name}
+                className={inputClasses.join(' ')}
+            />
 
-// export default car
-
-export default props => (
-    <div>
-       <h3>Car name: {props.name}</h3>
-        <p>Year: {props.year}</p>
-        <p>Lot number: <strong style={{color:'red'}}>{Math.round(Math.random()*100)}</strong></p>
-    </div>
-)
+            <p>Lot number: <strong style={{color: 'red'}}>{Math.round(Math.random() * 100)}</strong></p>
+            <button onClick={props.onChangeTitle}>Click</button>
+        </div>
+    )
+}
