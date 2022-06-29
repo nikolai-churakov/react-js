@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a85aacb-5f1b-449e-8b41-97182bbbdb04" name="Changes" comment="add car.js component">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Counter/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Counter/Counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,14 +91,7 @@
       <workItem from="1655199318910" duration="3262000" />
       <workItem from="1655203715171" duration="3986000" />
       <workItem from="1655964243892" duration="460000" />
-      <workItem from="1656349180401" duration="2911000" />
-    </task>
-    <task id="LOCAL-00020" summary="add car.js component">
-      <created>1654799359640</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1654799359640</updated>
+      <workItem from="1656349180401" duration="3301000" />
     </task>
     <task id="LOCAL-00021" summary="add car.js component">
       <created>1654889704161</created>
@@ -438,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656413393543</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="add car.js component">
+      <created>1656495140807</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1656495140807</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
