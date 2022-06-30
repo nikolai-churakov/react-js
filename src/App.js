@@ -6,7 +6,6 @@ const divStyle =  {
   'color': '#0088ff',
   'fontSize': '18px',
   'textAlign': 'center'
-
 }
 
 class App extends Component {
